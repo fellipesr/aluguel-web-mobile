@@ -3,7 +3,7 @@ Aluguel de sala em tempo real do aplicativo para o sistema web, desenvolvido com
 
 Tela do Aplicativo:
 
-- ![projetoTres](https://user-images.githubusercontent.com/55992886/74257257-5371d180-4cd3-11ea-84db-430999837138.png) `#000`
+![projetoTres](https://user-images.githubusercontent.com/55992886/74257257-5371d180-4cd3-11ea-84db-430999837138.png)
 
 Tela da Web:
 
